@@ -1,4 +1,7 @@
 #    Hello this is my first Readme file
 ##    Done by me:
 ###    Miguel Bear
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```python
+mylambda=lambda a, b, c:a+b
+print(mylambda(1,2, 3))
+```
